@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "terra"                  # Names of key in aws
+  default = "devops"                  # Names of key in aws
 }
 
 
